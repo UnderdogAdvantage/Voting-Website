@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Competition on Underdog Advantage</title>
+    <link>https://ua.btmatic.com/tags/competition/</link>
+    <description>Recent content in Competition on Underdog Advantage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Feb 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://ua.btmatic.com/tags/competition/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Botomatic Inc Ranked 2nd for DSTC10 Task Orieted Dialog</title>
+      <link>https://ua.btmatic.com/post/20220228-dstc10/</link>
+      <pubDate>Mon, 28 Feb 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://ua.btmatic.com/post/20220228-dstc10/</guid>
+      <description>The main goal of the Dialog System Technology Challenge (DSTC) is to provide a common testbed to evaluate the state-of-the-art (SOTA) of dialog systems and related technologies, including natural language processing, audio and speech processing, and vision information processing.
+The tenth challenge of DSTC is held at AAAI-22 on February 28th - March 1st, 2022. Botomatic Inc. is the only team that submits a single model due to GPU resource constraint.</description>
+    </item>
+    
+  </channel>
+</rss>
