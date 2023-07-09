@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MLB on Underdog Advantage</title>
+    <link>https://www.udogadvantage.com/tags/mlb/</link>
+    <description>Recent content in MLB on Underdog Advantage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 Jun 2023 07:30:00 -0800</lastBuildDate><atom:link href="https://www.udogadvantage.com/tags/mlb/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Is it worth stealing bases in 2023?</title>
+      <link>https://www.udogadvantage.com/post/steals/</link>
+      <pubDate>Thu, 08 Jun 2023 07:30:00 -0800</pubDate>
+      
+      <guid>https://www.udogadvantage.com/post/steals/</guid>
+      <description>In the 2022 offseason, the MLB instituted rules that, among other changes, reduced the distance between bases by 4.5 inches. Doing so was intended to encourage steals, but is it ever worth stealing? We’ve done the numbers and here is our results:
+How do we calculate the value of a steal? We can use run expectancy to gain the expected run gain on a steal. To do this, we used a joint run-expectancy matrix from the last 7 years.</description>
+    </item>
+    
+    <item>
+      <title>Baseball isn&#39;t being played optimally (and it&#39;s good for the fans)</title>
+      <link>https://www.udogadvantage.com/post/unoptimalrunexpectancy/</link>
+      <pubDate>Tue, 11 Apr 2023 10:29:08 -0400</pubDate>
+      
+      <guid>https://www.udogadvantage.com/post/unoptimalrunexpectancy/</guid>
+      <description>On April 10th, the Seattle Mariners lost to the Chicago Cubs in extras 2-3. After a scoreless inning for the Ms, the Cubs stole third and then sac-flied their way to a walk-off win at home. Despite being the result of only a single regular season game (and not even the craziest between the Mariners and Cubs, as the Ms would lose 9-14 the following day), this game can teach us a lot about scoring in baseball: specifically, that teams aren&amp;rsquo;t scoring optimally.</description>
+    </item>
+    
+    <item>
+      <title>How the Diamond Sports Group bankruptcy can benefit MLB fans nationwide</title>
+      <link>https://www.udogadvantage.com/post/dsgbankruptcy/</link>
+      <pubDate>Fri, 31 Mar 2023 06:40:08 -0400</pubDate>
+      
+      <guid>https://www.udogadvantage.com/post/dsgbankruptcy/</guid>
+      <description>On March 14, 2023, the Diamond Sports Group filed for Bankruptcy. While this seems inconsequential for the average MLB, it actually has massive ramifications. Diamond Sports Group owns the 20+ Bally Sports regional networks, which broadcast regional MLB games.
+What does this mean for an MLB fan? This isn&amp;rsquo;t great if you have access to a Bally Sports network. In all likelihood, the MLB will attempt to clarify their streaming rules with this bankruptcy.</description>
+    </item>
+    
+  </channel>
+</rss>
